@@ -1,0 +1,2 @@
+-- Financial seed data is inserted by com.finance.backend.config.DataInitializer (CommandLineRunner)
+-- after JPA creates/updates schema. This file is intentionally empty; see DataInitializer.java.
