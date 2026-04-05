@@ -123,7 +123,7 @@ Content-Type: application/json
     "token": "eyJhbGciOiJIUzI1NiJ9...",
     "email": "raju@example.com",
     "role": "ADMIN",
-    "name": "John Doe"
+    "name": "Raju Tiwari"
   }
 }
 ```
