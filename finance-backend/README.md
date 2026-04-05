@@ -106,8 +106,8 @@ POST /api/auth/register
 Content-Type: application/json
 
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Raju Tiwari",
+  "email": "raju@example.com",
   "password": "password123",
   "role": "ADMIN"
 }
@@ -121,7 +121,7 @@ Content-Type: application/json
   "message": "User registered successfully",
   "data": {
     "token": "eyJhbGciOiJIUzI1NiJ9...",
-    "email": "john@example.com",
+    "email": "raju@example.com",
     "role": "ADMIN",
     "name": "John Doe"
   }
