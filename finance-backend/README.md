@@ -356,7 +356,7 @@ finance-backend/
 │   ├── security/       (SecurityUser)
 │   └── util/
 ├── src/main/resources/
-│   ├── application.properties
+│   ├── application.properties.example
 │   └── data.sql        (placeholder; seeding in Java)
 ├── pom.xml
 └── README.md
